@@ -166,9 +166,8 @@ Material 2
 End
 
 Body Force 1
-   Current Density 1 = 5000.
-  Current Density 2 = 5000.
-  Current Density 3 = 5000.
+  Name = "Body forces for copper"
+  Electric Potential = Equals "Potential"
 End
 
 Boundary Condition 1
